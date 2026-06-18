@@ -1,0 +1,241 @@
+WEBVTT
+
+0
+00:00:00.009 --> 00:00:03.549
+Let's now look at what happens when a Problem Task is assigned to your group.
+
+1
+00:00:03.930 --> 00:00:06.550
+We're starting this scenario logged in as a Problem Manager.
+
+2
+00:00:07.010 --> 00:00:07.769
+As you can see,
+
+3
+00:00:07.849 --> 00:00:10.310
+the Problem is in the Root Cause Analysis state.
+
+4
+00:00:10.609 --> 00:00:12.329
+And here on the Problem Tasks tab,
+
+5
+00:00:12.529 --> 00:00:16.690
+we can see that the Problem Manager has created a Root Cause Analysis Task
+
+6
+00:00:16.850 --> 00:00:18.770
+and assigned it to the relevant support group.
+
+7
+00:00:19.129 --> 00:00:22.530
+Let's now log in as a member of that assignment group and pick up the task.
+
+8
+00:00:22.930 --> 00:00:25.790
+Head to the Tasks list and select "Assigned to your group".
+
+9
+00:00:26.290 --> 00:00:29.489
+Here you'll find any assigned Problem Tasks in your team's queue,
+
+10
+00:00:29.889 --> 00:00:31.549
+alongside other task types,
+
+11
+00:00:31.850 --> 00:00:34.169
+like Incidents or Service Catalog Tasks.
+
+12
+00:00:36.279 --> 00:00:40.419
+Review the task details in the Short Description and Description fields.
+
+13
+00:00:41.340 --> 00:00:42.500
+To take ownership of the task,
+
+14
+00:00:42.549 --> 00:00:44.009
+click "Assign to me".
+
+15
+00:00:45.450 --> 00:00:48.020
+This populates your name in the Assigned To field.
+
+16
+00:00:49.900 --> 00:00:50.840
+When you're ready to begin,
+
+17
+00:00:51.139 --> 00:00:52.430
+click "Start work",
+
+18
+00:00:52.619 --> 00:00:54.459
+to move the task to Work in Progress.
+
+19
+00:00:55.849 --> 00:00:57.979
+You can easily navigate to the parent problem record
+
+20
+00:00:57.979 --> 00:01:00.119
+by clicking the info button on the Problem field.
+
+21
+00:01:01.720 --> 00:01:03.159
+Then choosing "Open Record".
+
+22
+00:01:03.930 --> 00:01:06.290
+The record opens in a new tab within the workspace.
+
+23
+00:01:07.190 --> 00:01:07.750
+From here,
+
+24
+00:01:07.949 --> 00:01:10.089
+you can view the full details of the Problem,
+
+25
+00:01:10.389 --> 00:01:12.470
+as well as the previous activity on the record.
+
+26
+00:01:17.089 --> 00:01:20.769
+You can also check the Related Records tab to see any related Incidents,
+
+27
+00:01:21.059 --> 00:01:24.230
+and the Affected Configuration Items and Service Offerings
+
+28
+00:01:24.559 --> 00:01:27.129
+to get a better understanding of the issue you're investigating.
+
+29
+00:01:28.889 --> 00:01:30.419
+Let's head back to the Problem Task.
+
+30
+00:01:31.930 --> 00:01:34.099
+As you work the Root Cause Analysis task,
+
+31
+00:01:34.339 --> 00:01:38.019
+you can record your findings in the Analysis Information section of the form.
+
+32
+00:01:39.319 --> 00:01:42.900
+Select the Cause Code that best reflects what you've identified so far.
+
+33
+00:01:43.190 --> 00:01:44.739
+This doesn't need to be perfect.
+
+34
+00:01:44.919 --> 00:01:47.239
+It should simply represent the most likely cause
+
+35
+00:01:47.239 --> 00:01:49.150
+based on the evidence available at this point.
+
+36
+00:01:49.440 --> 00:01:50.669
+In the Cause Notes field,
+
+37
+00:01:51.000 --> 00:01:53.540
+document your observations in clear factual detail.
+
+38
+00:01:54.000 --> 00:01:55.389
+Focus on what you reviewed,
+
+39
+00:01:55.559 --> 00:01:56.540
+what you observed,
+
+40
+00:01:56.750 --> 00:01:59.139
+and any patterns or conditions that stood out.
+
+41
+00:01:59.440 --> 00:02:01.360
+This helps the Problem Manager understand your
+
+42
+00:02:01.360 --> 00:02:03.440
+findings without needing to retrace your steps.
+
+43
+00:02:05.029 --> 00:02:06.680
+In the Proposed Fix Notes field,
+
+44
+00:02:06.750 --> 00:02:08.809
+capture any suggested next steps.
+
+45
+00:02:09.070 --> 00:02:10.710
+This might be a potential fix,
+
+46
+00:02:11.029 --> 00:02:12.889
+a recommendation for further investigation,
+
+47
+00:02:13.789 --> 00:02:16.509
+or an idea that should be evaluated through Change.
+
+48
+00:02:16.789 --> 00:02:18.589
+You're not committing to a solution here -- 
+
+49
+00:02:19.029 --> 00:02:21.509
+you're sharing insight to support the next decision.
+
+50
+00:02:25.240 --> 00:02:28.440
+If you identify a new or improved workaround while investigating,
+
+51
+00:02:28.919 --> 00:02:31.419
+you can document it in the Workaround field.
+
+52
+00:02:31.759 --> 00:02:34.419
+This is especially helpful if Incidents are still occurring
+
+53
+00:02:34.720 --> 00:02:36.839
+or are waiting on the Problem for guidance.
+
+54
+00:02:37.779 --> 00:02:38.970
+Once you've entered your notes,
+
+55
+00:02:39.179 --> 00:02:41.339
+click "Complete" to close the task.
+
+56
+00:02:41.740 --> 00:02:42.690
+In the modal window,
+
+57
+00:02:42.740 --> 00:02:44.820
+you can review and finalize your notes,
+
+58
+00:02:45.059 --> 00:02:45.809
+if needed,
+
+59
+00:02:46.339 --> 00:02:49.699
+before clicking "Submit" to save your changes and mark the task Complete.

@@ -1,0 +1,105 @@
+WEBVTT
+
+0
+00:00:00.889 --> 00:00:02.930
+From the Service Operations Workspace homepage,
+
+1
+00:00:03.009 --> 00:00:05.570
+unresolved work can be accessed through team widgets.
+
+2
+00:00:07.309 --> 00:00:07.550
+Here,
+
+3
+00:00:07.590 --> 00:00:09.550
+an unassigned Incident is selected from the
+
+4
+00:00:09.550 --> 00:00:11.489
+Hosting Services group queue for review.
+
+5
+00:00:13.649 --> 00:00:14.550
+Before taking ownership,
+
+6
+00:00:14.819 --> 00:00:16.020
+review the key context.
+
+7
+00:00:16.389 --> 00:00:19.129
+Priority and SLA timing
+
+9
+00:00:19.149 --> 00:00:21.020
+help determine how quickly action is needed.
+
+10
+00:00:22.659 --> 00:00:24.500
+If you're taking responsibility for the incident,
+
+11
+00:00:24.569 --> 00:00:26.920
+click Assign to Me to assign it to yourself.
+
+12
+00:00:28.610 --> 00:00:31.250
+This moves the record into the In Progress state.
+
+13
+00:00:31.569 --> 00:00:34.240
+This signals ownership and updates visibility for others.
+
+14
+00:00:34.490 --> 00:00:35.810
+Once ownership is established,
+
+15
+00:00:35.889 --> 00:00:37.990
+the Response SLA is satisfied
+
+16
+00:00:38.330 --> 00:00:40.169
+and investigation becomes the focus.
+
+17
+00:00:41.060 --> 00:00:44.430
+Continue to monitor SLA timing throughout the incident lifecycle.
+
+18
+00:00:45.470 --> 00:00:46.250
+Before acting,
+
+19
+00:00:46.689 --> 00:00:47.909
+review the issue carefully,
+
+20
+00:00:48.369 --> 00:00:49.330
+confirm what is happening,
+
+21
+00:00:49.490 --> 00:00:50.369
+who is affected,
+
+22
+00:00:50.650 --> 00:00:53.369
+and whether the current classification still makes sense.
+
+23
+00:00:54.930 --> 00:00:58.290
+A first Worknote should record what has been checked and what happens next.
+
+24
+00:00:58.610 --> 00:01:00.930
+Meaningful updates make the record useful to others.
+
+25
+00:01:05.138 --> 00:01:05.668
+At this point,
+
+26
+00:01:05.789 --> 00:01:08.728
+the incident is actively owned and ready for investigation.

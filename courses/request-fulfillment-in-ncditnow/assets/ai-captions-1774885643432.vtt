@@ -1,0 +1,57 @@
+WEBVTT
+
+0
+00:00:00.439 --> 00:00:03.339
+Communication and updates are recorded directly on the task.
+
+1
+00:00:04.230 --> 00:00:07.550
+Use Work Notes to record internal updates as work progresses.
+
+2
+00:00:08.590 --> 00:00:10.850
+These updates are not visible to the requester.
+
+3
+00:00:15.760 --> 00:00:17.200
+If more information is needed,
+
+4
+00:00:17.440 --> 00:00:21.149
+an Additional Comment can be added to obtain clarification from the requester.
+
+5
+00:00:29.610 --> 00:00:30.690
+When waiting for a response,
+
+6
+00:00:30.770 --> 00:00:32.709
+the task can be placed in a Pending state.
+
+7
+00:00:40.689 --> 00:00:43.970
+The Comment is automatically posted to the Requested Item record,
+
+8
+00:00:44.209 --> 00:00:47.130
+where it is visible to the requester and triggers a notification.
+
+9
+00:00:48.869 --> 00:00:50.200
+When the requester responds,
+
+10
+00:00:50.459 --> 00:00:52.110
+as the Assigned To user,
+
+11
+00:00:52.360 --> 00:00:54.279
+you'll be notified that a comment has been added.
+
+12
+00:00:56.790 --> 00:00:58.560
+Once the required information is received,
+
+13
+00:00:58.639 --> 00:01:01.319
+the task can be returned to the Work in Progress state.

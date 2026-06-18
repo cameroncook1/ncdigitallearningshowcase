@@ -1,0 +1,73 @@
+WEBVTT
+
+0
+00:00:00.009 --> 00:00:03.670
+To add or remove columns in a list in Service Operations Workspace,
+
+1
+00:00:03.910 --> 00:00:06.969
+open the List Actions menu using the gear icon,
+
+2
+00:00:07.210 --> 00:00:08.710
+then select "Edit columns".
+
+3
+00:00:09.439 --> 00:00:13.319
+The Edit List window shows the columns currently displayed on the right
+
+4
+00:00:13.479 --> 00:00:15.699
+and all available columns on the left.
+
+5
+00:00:16.940 --> 00:00:18.010
+To add a column,
+
+6
+00:00:18.229 --> 00:00:20.270
+scroll or search for the field you need,
+
+7
+00:00:20.549 --> 00:00:23.069
+then select it from the "Available columns" list.
+
+8
+00:00:25.780 --> 00:00:27.069
+To remove a column,
+
+9
+00:00:27.340 --> 00:00:29.409
+find it in the "Selected columns" panel,
+
+10
+00:00:29.829 --> 00:00:31.389
+then click the remove icon.
+
+11
+00:00:32.168 --> 00:00:32.979
+When you're finished,
+
+12
+00:00:33.130 --> 00:00:36.659
+click "OK" to apply your changes and return to the list.
+
+13
+00:00:37.599 --> 00:00:38.439
+As you can see,
+
+14
+00:00:38.520 --> 00:00:41.000
+the removed column is no longer displayed,
+
+15
+00:00:41.279 --> 00:00:43.700
+and the added column now appears in the list.
+
+16
+00:00:43.930 --> 00:00:46.380
+These changes apply only to your personal view
+
+17
+00:00:46.569 --> 00:00:48.340
+and won't affect what others see.

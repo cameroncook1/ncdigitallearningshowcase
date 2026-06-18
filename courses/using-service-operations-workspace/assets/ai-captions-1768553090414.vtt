@@ -1,0 +1,61 @@
+WEBVTT
+
+0
+00:00:00.009 --> 00:00:02.559
+For fields with a predefined set of values,
+
+1
+00:00:02.569 --> 00:00:04.469
+such as a task's State field,
+
+2
+00:00:04.690 --> 00:00:07.570
+the column menu displays a list of available options.
+
+3
+00:00:08.699 --> 00:00:11.010
+Select one or more values to filter the list.
+
+4
+00:00:11.920 --> 00:00:13.039
+Then click Apply.
+
+5
+00:00:13.810 --> 00:00:16.340
+The applied condition appears in the Filter Panel
+
+6
+00:00:16.579 --> 00:00:18.739
+where it can be reviewed or adjusted.
+
+7
+00:00:19.680 --> 00:00:22.899
+For free text fields such as a task's Short Description,
+
+8
+00:00:23.319 --> 00:00:26.280
+the column menu allows you to search for matching text.
+
+9
+00:00:26.559 --> 00:00:28.100
+Choose the appropriate operator,
+
+10
+00:00:28.450 --> 00:00:30.909
+such as Starts With or Contains.
+
+11
+00:00:31.200 --> 00:00:33.290
+Enter the word or phrase you're looking for,
+
+12
+00:00:33.680 --> 00:00:34.720
+then click Apply.
+
+13
+00:00:36.419 --> 00:00:37.740
+As with other filters,
+
+14
+00:00:37.909 --> 00:00:40.209
+the condition is added to the Filter Panel.

@@ -1,0 +1,121 @@
+WEBVTT
+
+0
+00:00:00.129 --> 00:00:02.009
+When someone contacts the service desk,
+
+1
+00:00:02.289 --> 00:00:03.089
+whether by phone,
+
+2
+00:00:03.170 --> 00:00:03.569
+chat,
+
+3
+00:00:03.769 --> 00:00:04.078
+Teams,
+
+4
+00:00:04.090 --> 00:00:04.929
+or another channel,
+
+5
+00:00:05.210 --> 00:00:06.610
+it starts with an interaction.
+
+6
+00:00:06.889 --> 00:00:10.109
+The interaction captures who contacted you and what they need.
+
+7
+00:00:10.409 --> 00:00:12.250
+It's important to understand whether the person is
+
+8
+00:00:12.250 --> 00:00:14.710
+an internal user or an external contact.
+
+9
+00:00:15.210 --> 00:00:16.760
+If they're an internal user,
+
+10
+00:00:16.850 --> 00:00:20.489
+you will typically create an incident or a request if follow-up work is needed.
+
+11
+00:00:21.200 --> 00:00:21.590
+Of course,
+
+12
+00:00:21.729 --> 00:00:24.110
+not every interaction requires follow-up work.
+
+13
+00:00:24.370 --> 00:00:26.989
+If the issue is resolved during the initial contact,
+
+14
+00:00:27.290 --> 00:00:28.770
+the interaction can be closed.
+
+15
+00:00:32.080 --> 00:00:33.299
+For external contacts,
+
+16
+00:00:33.389 --> 00:00:34.950
+the process is slightly different.
+
+17
+00:00:35.189 --> 00:00:36.569
+You'll first create a case.
+
+18
+00:00:36.790 --> 00:00:39.849
+The case becomes the customer facing record for the external user.
+
+19
+00:00:40.069 --> 00:00:41.380
+If additional work is needed,
+
+20
+00:00:41.549 --> 00:00:45.169
+you can then create an incident or request for internal teams to resolve.
+
+21
+00:00:47.349 --> 00:00:48.430
+As work progresses,
+
+22
+00:00:48.770 --> 00:00:52.229
+updates from the incident or request are reflected automatically in the case,
+
+23
+00:00:52.560 --> 00:00:54.959
+so external customers can track progress without
+
+24
+00:00:54.959 --> 00:00:57.880
+needing visibility into internal IT processes.
+
+25
+00:00:59.599 --> 00:01:01.020
+Always start with an interaction,
+
+26
+00:01:01.520 --> 00:01:03.259
+then create the right type of work,
+
+27
+00:01:03.759 --> 00:01:06.000
+an incident or request for internal users.
+
+28
+00:01:06.680 --> 00:01:08.459
+A case for external users
+
+29
+00:01:08.639 --> 00:01:10.199
+or resolve the request directly.

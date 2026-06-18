@@ -1,0 +1,169 @@
+WEBVTT
+
+0
+00:00:00.009 --> 00:00:00.870
+In this scenario,
+
+1
+00:00:00.970 --> 00:00:02.769
+we're working an incident which cannot be
+
+2
+00:00:02.769 --> 00:00:05.170
+resolved because the root cause is unknown,
+
+3
+00:00:05.409 --> 00:00:08.479
+and there is no available workaround to get the user up and running again.
+
+4
+00:00:08.760 --> 00:00:09.590
+In this case,
+
+5
+00:00:09.850 --> 00:00:12.029
+we will need to place the incident on hold
+
+6
+00:00:12.449 --> 00:00:15.989
+and initiate the problem management process to investigate the root cause,
+
+7
+00:00:16.610 --> 00:00:18.610
+identify an appropriate fix,
+
+8
+00:00:19.079 --> 00:00:22.930
+or establish a viable workaround we can use to restore service temporarily.
+
+9
+00:00:24.510 --> 00:00:25.989
+To place the incident on hold,
+
+10
+00:00:26.229 --> 00:00:28.100
+change the state to on hold.
+
+11
+00:00:28.399 --> 00:00:29.549
+When you choose this option,
+
+12
+00:00:29.790 --> 00:00:32.130
+the on-hold reason field becomes available.
+
+13
+00:00:32.459 --> 00:00:33.220
+From the drop-down,
+
+14
+00:00:33.509 --> 00:00:34.790
+choose a waiting problem.
+
+15
+00:00:35.990 --> 00:00:36.360
+OK,
+
+16
+00:00:36.439 --> 00:00:37.750
+let's save our changes.
+
+17
+00:00:38.279 --> 00:00:40.380
+Now we want to create a problem record to engage
+
+18
+00:00:40.380 --> 00:00:43.500
+the problem management team in root cause analysis activities.
+
+19
+00:00:43.759 --> 00:00:44.349
+To do this,
+
+20
+00:00:44.520 --> 00:00:47.580
+open the more actions menu and choose create problem.
+
+21
+00:00:49.040 --> 00:00:50.759
+A new problem record is created,
+
+22
+00:00:51.080 --> 00:00:53.700
+pre-populated with data from the originating incident.
+
+23
+00:00:54.000 --> 00:00:55.319
+We can make changes if we need to,
+
+24
+00:00:55.400 --> 00:00:56.099
+but in this case,
+
+25
+00:00:56.439 --> 00:00:57.270
+it looks good.
+
+26
+00:00:57.680 --> 00:00:59.000
+So let's assign the problem.
+
+27
+00:01:00.040 --> 00:01:01.029
+Click assign
+
+28
+00:01:02.830 --> 00:01:03.810
+In the modal window,
+
+29
+00:01:03.939 --> 00:01:06.589
+select the problem management assignment group.
+
+30
+00:01:08.949 --> 00:01:10.040
+Add work notes
+
+31
+00:01:14.669 --> 00:01:15.610
+Then click save.
+
+32
+00:01:16.830 --> 00:01:18.430
+The problem has now been created and
+
+33
+00:01:18.430 --> 00:01:20.629
+placed in the problem management group's queue,
+
+34
+00:01:20.949 --> 00:01:24.169
+where it can be picked up or assigned to a problem manager for investigation.
+
+35
+00:01:25.730 --> 00:01:26.029
+Now,
+
+36
+00:01:26.290 --> 00:01:27.970
+if we go back to our original incident,
+
+37
+00:01:28.050 --> 00:01:28.230
+you know,
+
+38
+00:01:28.290 --> 00:01:31.150
+we can see the state is on hold awaiting problem.
+
+39
+00:01:31.569 --> 00:01:33.849
+And if we scroll down to the related records section,
+
+40
+00:01:34.169 --> 00:01:36.269
+we can see the problem record we just created
+
+41
+00:01:36.449 --> 00:01:39.889
+and can quickly navigate between records as the investigation progresses.

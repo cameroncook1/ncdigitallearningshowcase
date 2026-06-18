@@ -1,0 +1,65 @@
+WEBVTT
+
+0
+00:00:00.009 --> 00:00:01.870
+In Service Operations Workspace,
+
+1
+00:00:02.269 --> 00:00:05.389
+applied filters are managed through the Filter Panel.
+
+2
+00:00:05.889 --> 00:00:09.470
+Open the Filter Panel to see exactly how the list is being filtered.
+
+3
+00:00:09.729 --> 00:00:11.359
+To change your filter conditions,
+
+4
+00:00:11.560 --> 00:00:13.850
+click Advanced View at the bottom of the panel.
+
+5
+00:00:14.850 --> 00:00:15.369
+From here,
+
+6
+00:00:15.489 --> 00:00:18.510
+you can modify existing conditions or add new ones using AND
+
+7
+00:00:18.510 --> 00:00:21.590
+and OR operators to get the view of records you need.
+
+8
+00:00:24.200 --> 00:00:25.590
+Once you've made your changes,
+
+9
+00:00:25.760 --> 00:00:28.780
+click Update to apply the new filter conditions.
+
+10
+00:00:29.000 --> 00:00:31.860
+These changes apply only to your current view of the list.
+
+11
+00:00:32.040 --> 00:00:33.299
+If you want to keep this view,
+
+12
+00:00:33.479 --> 00:00:35.439
+you can save it as a personal list.
+
+13
+00:00:35.639 --> 00:00:36.220
+Otherwise,
+
+14
+00:00:36.639 --> 00:00:41.080
+the default list view can be restored at any time by reopening the Filter Panel,
+
+15
+00:00:41.200 --> 00:00:43.419
+then clicking Restore Defaults.

@@ -1,0 +1,173 @@
+WEBVTT
+
+0
+00:00:00.330 --> 00:00:01.090
+In this scenario,
+
+1
+00:00:01.169 --> 00:00:04.650
+we are working an Incident which has recurred several times over the last month.
+
+2
+00:00:06.590 --> 00:00:08.189
+The root cause remains unknown.
+
+3
+00:00:09.819 --> 00:00:13.449
+But we can see from previous occurrences that there is an established workaround
+
+4
+00:00:13.619 --> 00:00:16.479
+that has been successfully used in the past to restore service.
+
+5
+00:00:16.979 --> 00:00:18.239
+Once we've applied the workaround,
+
+6
+00:00:18.569 --> 00:00:20.979
+we can copy the Resolution Notes from the previous Incident.
+
+7
+00:00:23.149 --> 00:00:23.329
+Now,
+
+8
+00:00:23.430 --> 00:00:24.750
+let's proceed to resolve the ticket.
+
+9
+00:00:26.469 --> 00:00:28.629
+We'll select the appropriate Resolution Code,
+
+10
+00:00:28.829 --> 00:00:30.149
+Resolved (with workaround).
+
+11
+00:00:30.899 --> 00:00:32.580
+Adjust the Resolution Notes if needed,
+
+12
+00:00:32.729 --> 00:00:33.840
+then click Resolve.
+
+13
+00:00:35.349 --> 00:00:35.650
+Now,
+
+14
+00:00:35.830 --> 00:00:37.250
+let's create the Problem record.
+
+15
+00:00:37.750 --> 00:00:38.830
+From the More Actions menu,
+
+16
+00:00:39.029 --> 00:00:40.209
+choose Create Problem.
+
+17
+00:00:42.189 --> 00:00:43.500
+A new Problem is created,
+
+18
+00:00:43.630 --> 00:00:46.110
+pre-populated with data from the originating Incident.
+
+19
+00:00:49.020 --> 00:00:50.669
+You can make changes if needed
+
+20
+00:00:50.869 --> 00:00:53.169
+to the Short Description and Description fields,
+
+21
+00:00:53.419 --> 00:00:54.979
+as well as any other fields,
+
+22
+00:00:55.349 --> 00:00:57.189
+to provide a detailed summary of the
+
+23
+00:00:57.189 --> 00:00:59.750
+issue and enable proper assessment and analysis.
+
+24
+00:01:01.020 --> 00:01:02.900
+We saw earlier that there were other Incidents in
+
+25
+00:01:02.900 --> 00:01:05.190
+the system for previous occurrences of this Problem.
+
+26
+00:01:05.809 --> 00:01:08.449
+So let's head to the Related Records tab to relate them.
+
+27
+00:01:08.750 --> 00:01:09.510
+As you can see,
+
+28
+00:01:09.580 --> 00:01:11.930
+the originating Incident is already listed.
+
+29
+00:01:12.220 --> 00:01:13.500
+To relate additional Incidents,
+
+30
+00:01:13.580 --> 00:01:14.180
+click Add.
+
+31
+00:01:16.139 --> 00:01:19.059
+Apply any filters needed to find the relevant Incidents,
+
+32
+00:01:19.500 --> 00:01:21.400
+then use the checkboxes to select them,
+
+33
+00:01:21.699 --> 00:01:23.540
+then click Add to relate them to the record.
+
+34
+00:01:25.680 --> 00:01:27.599
+We're now ready to assign the Problem record
+
+35
+00:01:27.599 --> 00:01:29.720
+to the Problem Management group for assessment.
+
+36
+00:01:30.900 --> 00:01:31.569
+Click Assign.
+
+37
+00:01:33.449 --> 00:01:35.620
+Select the Problem Management assignment group.
+
+38
+00:01:39.680 --> 00:01:40.959
+Add Work Notes as needed.
+
+39
+00:01:44.760 --> 00:01:45.940
+Then click Save
+
+40
+00:01:47.870 --> 00:01:48.559
+That's it.
+
+41
+00:01:48.800 --> 00:01:50.489
+The Problem is now assigned to the Problem
+
+42
+00:01:50.489 --> 00:01:53.080
+Management group for assessment and further investigation.
